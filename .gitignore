@@ -1,0 +1,18 @@
+# Windows System Files
+desktop.ini
+Thumbs.db
+
+# Buildozer and Android artifacts
+.buildozer/
+bin/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
